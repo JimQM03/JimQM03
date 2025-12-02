@@ -1,16 +1,44 @@
-## Hi there 👋
+# JimQM
+Hi👋I'm Jim Alejandro Quiñones Martinez. I'm 20 years old and Welcome to my digital space. Here you can find my latest projects and contributions.
+## Tech Stack 💻
+* **Key Languages:** Java, JavaScript , Python, SQL.*
+* **Tools & DevOps:** Git/GitHub.
+ ---
+## 📈 Mi Actividad en GitHub 
+(Skills)[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jim-Martinez&show_icons=true&theme=vue)](https://github.com/Jim-Martinez)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jim-Martinez&layout=compact&theme=vue)](https://github.com/Jim-Martinez)
+---
+## 💻 Tech Stack
+### 🔑 Key Languages
+(Insignias)![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!--
-**JimQM03/JimQM03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tools & DevOps
 
-Here are some ideas to get you started:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyectos Destacados
+<details>  
+  <summary>Proyecto 1: Ferreteria</summary>  
+  ### 💡 Resumen  
+  Plataforma de administración desarrollada con **HTML, CSS, MySQL, Javascript**. Solucionó el problema de Organización de base de datos e inventariado.  
+  ### ⚙️ Características Técnicas  
+  * Uso de arquitectura MVC.  
+  * Implementación de pruebas unitarias y de integración.  
+  * Optimización de consultas para mejorar el rendimiento.  
+</details>
+
+---
+
+  ## 🤝 Conexión y Contacto (Connect & Contact)
+  Finalmente, Quisiera compartir mis redes sociales:
+  ### 📧 ¡Hablemos!
+  * Whatsapp  : 3137738679
+  * Telefono  : 3209735174
+  * Instagram : https://www.instagram.com/cromatic.echo/
+  * Facebook  : https://www.facebook.com/Cromatic.Echo
