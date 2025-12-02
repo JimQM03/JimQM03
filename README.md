@@ -15,10 +15,6 @@ Hi👋I'm Jim Alejandro Quiñones Martinez. I'm 20 years old and Welcome to my d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -35,10 +31,4 @@ Hi👋I'm Jim Alejandro Quiñones Martinez. I'm 20 years old and Welcome to my d
 
 ---
 
-  ## 🤝 Conexión y Contacto (Connect & Contact)
-  Finalmente, Quisiera compartir mis redes sociales:
-  ### 📧 ¡Hablemos!
-  * Whatsapp  : 3137738679
-  * Telefono  : 3209735174
-  * Instagram : https://www.instagram.com/cromatic.echo/
-  * Facebook  : https://www.facebook.com/Cromatic.Echo
+
