@@ -1,20 +1,26 @@
 # JimQM
-Hi👋I'm Jim Alejandro Quiñones Martinez. I'm 20 years old and Welcome to my digital space. Here you can find my latest projects and contributions.
-## Tech Stack 💻
-* **Key Languages:** Java, JavaScript , Python, SQL.*
-* **Tools & DevOps:** Git/GitHub.
- ---
-## 📈 Mi Actividad en GitHub 
-(Skills)[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jim-Martinez&show_icons=true&theme=vue)](https://github.com/Jim-Martinez)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jim-Martinez&layout=compact&theme=vue)](https://github.com/Jim-Martinez)
+
+## ABOUT ME:
+
+Hi👋I'm Jim Alejandro Quiñones Martinez. I'm from colombia and i'm 20 years old equally, Welcome to my digital space. Here you can find my latest projects and contributions. Also you can know more for me, i in the university, more especifically in the Universida de Cundinamarca (UDEC), i'm studing Software Development Engineering, by the same token i in 5th semester. Besides you can see i have a good level in english
+
+
+
 ---
 ## 💻 Tech Stack
+
+
 ### 🔑 Key Languages
+
 (Insignias)![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
+## 📈 Mi Actividad en GitHub 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jim-Martinez&show_icons=true&theme=vue)](https://github.com/Jim-Martinez)
 
 ---
 
