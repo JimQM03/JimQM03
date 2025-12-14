@@ -39,7 +39,7 @@ Hi, I'm Jim Alejandro Quiñones Martinez. I'm from colombia and i'm 20 years old
 </details>
 
 ---
-## last proyect
+## last project
 
 ---
 
