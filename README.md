@@ -27,7 +27,7 @@ Hi, I'm Jim Alejandro Quiñones Martinez. I'm from colombia and i'm 20 years old
 
 ---
 
-## projects
+## first project
 <details>  
   <summary>Proyecto 1: Ferreteria</summary>  
   ### 💡 Resumen  
@@ -39,5 +39,7 @@ Hi, I'm Jim Alejandro Quiñones Martinez. I'm from colombia and i'm 20 years old
 </details>
 
 ---
+## last proyect
 
+---
 
