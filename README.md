@@ -22,12 +22,12 @@ Hi, I'm Jim Alejandro Quiñones Martinez. I'm from colombia and i'm 20 years old
 
 ---
 
-## 📈 Mi Actividad en GitHub 
+## 📈 activity on GitHub
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jim-Martinez&show_icons=true&theme=vue)](https://github.com/Jim-Martinez)
 
 ---
 
-## 🚀 Proyectos Destacados
+## projects
 <details>  
   <summary>Proyecto 1: Ferreteria</summary>  
   ### 💡 Resumen  
