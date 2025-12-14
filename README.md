@@ -30,12 +30,15 @@ Hi, I'm Jim Alejandro Quiñones Martinez. I'm from colombia and i'm 20 years old
 ## first project
 <details>  
   <summary>Project 1: Ferreteria</summary>  
-  ### 💡 Resumen  
-  Plataforma de administración desarrollada con **HTML, CSS, MySQL, Javascript**. Solucionó el problema de Organización de base de datos e inventariado.  
-  ### ⚙️ Características Técnicas  
-  * Uso de arquitectura MVC.  
-  * Implementación de pruebas unitarias y de integración.  
-  * Optimización de consultas para mejorar el rendimiento.  
+  
+  ###  Summary
+  
+  This is me first project, here i dont know everything for the advance systems or development lenguage, but i know the bases and whit this bases we make a app to asistence the hardware store and webset to Advertising Management Site,also in this project i work by VS code and Git to manage de versioning,hence the lenguage to i use is **JavaScript(JS)**, as well i use the makup lenguage **HTML**, hence i use de lenguage to style **CSS** and finally i use the database lenguage **MySQL**. Everything is document and coment in the code, equally i have a list to technical specifications:
+  
+  ### ⚙️ technical specifications:
+  * architecture MVC.  
+  * implementation of inventory assistance systems.  
+  * implementation of a functional marketing system.  
 </details>
 
 ---
