@@ -29,7 +29,7 @@ Hi, I'm Jim Alejandro Quiñones Martinez. I'm from colombia and i'm 20 years old
 
 ## first project
 <details>  
-  <summary>Proyecto 1: Ferreteria</summary>  
+  <summary>Project 1: Ferreteria</summary>  
   ### 💡 Resumen  
   Plataforma de administración desarrollada con **HTML, CSS, MySQL, Javascript**. Solucionó el problema de Organización de base de datos e inventariado.  
   ### ⚙️ Características Técnicas  
