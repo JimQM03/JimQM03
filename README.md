@@ -33,17 +33,30 @@ Hi, I'm Jim Alejandro Quiñones Martinez. I'm from colombia and i'm 20 years old
 
 
 ## first project
-<details>  
-  <summary>Project 1: Ferreteria</summary>  
-  
-  ###  Summary
-  
-  This is me first project, here i dont know everything for the advance systems or development lenguage, but i know the bases and whit this bases we make a app to asistence the hardware store and webset to Advertising Management Site,also in this project i work by VS code and Git to manage de versioning,hence the lenguage to i use is **JavaScript(JS)**, as well i use the makup lenguage **HTML**, hence i use de lenguage to style **CSS** and finally i use the database lenguage **MySQL**. Everything is document and coment in the code, equally i have a list to technical specifications:
-  
-  ### ⚙️ technical specifications:
-  * architecture MVC.  
-  * implementation of inventory assistance systems.  
-  * implementation of a functional marketing system.  
+<details>
+  <summary>💰 Project 2: GestiónG - Financial Control System</summary>
+
+  ### 📝 Summary
+  **GestiónG** is a robust web application designed to manage personal finances, calculate bi-weekly savings, and track expenses. Unlike my first project, this system features a **full-stack architecture** with a dedicated backend and automated notification services.
+
+  **Key Features:**
+  * [cite_start]**Automated Alerts:** Sends email notifications via Gmail for "High Priority" expenses.
+  * [cite_start]**Database Integration:** Secure storage of financial records using MySQL.
+  * [cite_start]**Secure Access:** Login system and environment variable protection (.env).
+
+  **Technologies used:**
+  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=F7DF1E)
+
+  ### ⚙️ Technical Specifications
+  * [cite_start]**Backend:** Flask (Python) handling RESTful API requests and SMTP mail server.
+  * **Frontend:** Dynamic Dashboard with real-time calculations for salary and savings.
+  * [cite_start]**Database:** Relational schema in MySQL for history and agenda management.
+  * [cite_start]**Security:** Use of `.gitignore` and `.env` to protect database credentials and API keys[cite: 1, 2].
+
+  [🔗 View Repository](TU_LINK_DE_GESTIONG_AQUI)
 </details>
 
 ---
