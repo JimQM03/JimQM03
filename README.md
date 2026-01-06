@@ -28,8 +28,6 @@ Hi, I'm Jim Alejandro Quiñones Martinez. I'm from colombia and i'm 20 years old
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JimQM03&layout=compact&theme=vue)](https://github.com/JimQM03)
 
-[![GitHub Streak](https://github-readme-streak-stats-five.vercel.app/?user=JimQM03&theme=vue)](https://github.com/JimQM03)
-
 
 ---
 
