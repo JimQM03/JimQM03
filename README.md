@@ -22,19 +22,15 @@ Hi, I'm Jim Alejandro Quiñones Martinez. I'm from colombia and i'm 20 years old
 ---
 
 ## 📈 activity on GitHub
-<p align="center">
-  <a href="https://github.com/JimQM03">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JimQM03&show_icons=true&theme=vue" alt="GitHub Stats" />
-  </a>
-  
-  <br><br> <a href="https://github.com/JimQM03">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JimQM03&layout=compact&theme=vue" alt="Top Langs" />
-  </a>
 
-  <br><br><p align="center">
-    ![GitHub Streak](https://github-readme-streak-stats-five.vercel.app/?user=JimQM03&theme=vue)
-</p>
-</p>
+
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JimQM03&show_icons=true&theme=vue)](https://github.com/JimQM03)
+
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JimQM03&layout=compact&theme=vue)](https://github.com/JimQM03)
+
+[![GitHub Streak](https://github-readme-streak-stats-five.vercel.app/?user=JimQM03&theme=vue)](https://github.com/JimQM03)>
+
+---
 
 
 ## first project
