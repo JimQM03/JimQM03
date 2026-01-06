@@ -33,7 +33,8 @@ Hi, I'm Jim Alejandro Quiñones Martinez. I'm from colombia and i'm 20 years old
 
   <br><br><p align="center">
   <a href="https://github.com/JimQM03">
-    <img src="https://github-readme-streak-stats-five.vercel.app/?user=JimQM03&theme=vue" alt="GitHub Streak" />
+    ![GitHub Streak](https://github-readme-streak-stats-five.vercel.app/?user=JimQM03&theme=vue)
+    
   </a>
 </p>
 </p>
