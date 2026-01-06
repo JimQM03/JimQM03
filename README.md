@@ -56,7 +56,7 @@ Hi, I'm Jim Alejandro Quiñones Martinez. I'm from colombia and i'm 20 years old
   * [cite_start]**Database:** Relational schema in MySQL for history and agenda management.
   * [cite_start]**Security:** Use of `.gitignore` and `.env` to protect database credentials and API keys[cite: 1, 2].
 
-  [🔗 View Repository](TU_LINK_DE_GESTIONG_AQUI)
+  [🔗 View Repository]()
 </details>
 
 ---
