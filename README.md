@@ -31,11 +31,13 @@ Hi, I'm Jim Alejandro Quiñones Martinez. I'm from colombia and i'm 20 years old
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JimQM03&layout=compact&theme=vue" alt="Top Langs" />
   </a>
 
-  <br><br> <a href="https://github.com/JimQM03">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JimQM03&theme=vue" alt="GitHub Streak" />
+  <br><br><p align="center">
+  <a href="https://github.com/JimQM03">
+    <img src="https://github-readme-streak-stats-five.vercel.app/?user=JimQM03&theme=vue" alt="GitHub Streak" />
   </a>
 </p>
----
+</p>
+
 
 ## first project
 <details>  
