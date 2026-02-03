@@ -1,66 +1,56 @@
-# JimQM
+# Hi there, I'm Jim! 👋 
 
-## ABOUT ME:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JimQM03&label=Profile%20Views&color=0e75b6&style=flat" alt="JimQM03" />
+</p>
 
-Hi, I'm Jim Alejandro Quiñones Martinez. I'm from colombia and i'm 20 years old. Equally, Welcome to my digital space, here you can find my projects and contributions, Also you can know more for me, i in the university, more especifically in the Universidad de Cundinamarca (UDEC), i'm studing Software Development Engineering, by the same token i in 5th semester. Besides you can see i have a good level in english, hence i understend not a lot but, yet a more or less good level in english, similarly i knowed a bit of independenly art as seen in me instagram. Eventually i want to evolve a senior development and go me study to the next level, more in the meantime i want to learn everything about programming and its basics. Finally i so exited to know a new develoment lenguaje and find a job that helps me in my purpose, thanks to read this.
+### 🚀 About Me
+I am a **Software Engineering student (5th Semester)** at Universidad de Cundinamarca (UDEC), Colombia. My focus is on **Backend Development and Database Architecture**. I enjoy solving complex problems through logic, ensuring data security, and exploring the intersection between art and code.
 
-
-**you want to know more for me develoment knowed?, enter to this link:** https://jimqm03.github.io/CVpersonal/
-
----
-## 💻 Tech Stack
-
-
-### 🔑 Key Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- 🔭 **Current Focus:** Advanced Database Management and Server-side Security.
+- ⚡ **Fun Fact:** I combine my technical side with independent art; check my [Instagram](https://www.instagram.com/cromatic.echo/) to see my creative work.
+- 💬 **Ask me about:** Python, SQL, and how to build secure login systems.
 
 ---
 
-## 📈 activity on GitHub
+### 🛠️ Tech Stack
 
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Cloud/Infrastructure** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JimQM03&show_icons=true&theme=vue)](https://github.com/JimQM03)
+---
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JimQM03&layout=compact&theme=vue)](https://github.com/JimQM03)
+### 📂 Featured Projects
 
+#### 1. 🛡️ Inventory Web Service (FerreControl)
+**Advanced Inventory Management System** built with a focus on security.
+- **Highlights:** Implemented protection against SQL Injection, XSS attacks, and used Hashing for password encryption.
+- **Stack:** Turso (Edge SQLite), Vercel, JavaScript.
+- [🔗 View Repository](https://github.com/JimQM03/Tu-Repo-Aqui)
+
+#### 2. 💰 GestiónG - Financial Control
+**Full-Stack Financial Dashboard** with automated alerts.
+- **Highlights:** Integrated SMTP for email notifications and Neon (PostgreSQL) for secure cloud data storage.
+- **Stack:** Python, Flask, MySQL, Render.
+- [🔗 View Repository](https://github.com/JimQM03/Tu-Repo-Aqui)
 
 ---
 
-
-## first project
-<details>
-  <summary>💰 Project 2: GestiónG - Financial Control System</summary>
-
-  ### 📝 Summary
-  **GestiónG** is a robust web application designed to manage personal finances, calculate bi-weekly savings, and track expenses. Unlike my first project, this system features a **full-stack architecture** with a dedicated backend and automated notification services.
-
-  **Key Features:**
-  * [cite_start]**Automated Alerts:** Sends email notifications via Gmail for "High Priority" expenses.
-  * [cite_start]**Database Integration:** Secure storage of financial records using MySQL.
-  * [cite_start]**Secure Access:** Login system and environment variable protection (.env).
-
-  **Technologies used:**
-  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=F7DF1E)
-
-  ### ⚙️ Technical Specifications
-  * [cite_start]**Backend:** Flask (Python) handling RESTful API requests and SMTP mail server.
-  * **Frontend:** Dynamic Dashboard with real-time calculations for salary and savings.
-  * [cite_start]**Database:** Relational schema in MySQL for history and agenda management.
-  * [cite_start]**Security:** Use of `.gitignore` and `.env` to protect database credentials and API keys[cite: 1, 2].
-
-  [🔗 View Repository]()
-</details>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JimQM03&show_icons=true&theme=vue" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JimQM03&layout=compact&theme=vue" height="150" />
+</p>
 
 ---
-## last project
 
----
+### 📫 Connect with me:
+[**Check my Interactive CV**](https://jimqm03.github.io/CVpersonal/) 🌐
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TuUsuario)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jimq293@gmail.com)
 
