@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://jimqm03.github.io/CVpersonal/">
-    <img src="img/GestionG.png" alt="GestiónG Banner" width="100%">
+    <img src="img/GestionGview.png" alt="GestiónG Banner" width="100%">
   </a>
 </p>
 
