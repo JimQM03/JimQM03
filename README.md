@@ -1,8 +1,9 @@
-# Hi there, I'm Jim! 👋 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/JimQM03/CVpersonal/master/img/GestionGview.png" width="100%">
 </p>
+
+# Hi there, I'm Jim! 👋 
+
 
 ### 🚀 About Me
 I am a **Software Engineering student (5th Semester)** at Universidad de Cundinamarca (UDEC), Colombia. My focus is on **Backend Development and Database Architecture**. I enjoy solving complex problems through logic, ensuring data security, and exploring the intersection between art and code.
