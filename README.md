@@ -1,7 +1,9 @@
 # Hi there, I'm Jim! 👋 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JimQM03&label=Profile%20Views&color=0e75b6&style=flat" alt="JimQM03" />
+  <a href="https://jimqm03.github.io/CVpersonal/">
+    <img src="img/GestionG.png" alt="GestiónG Banner" width="100%">
+  </a>
 </p>
 
 ### 🚀 About Me
