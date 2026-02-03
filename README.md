@@ -1,9 +1,7 @@
 # Hi there, I'm Jim! 👋 
 
 <p align="center">
-  <a href="https://jimqm03.github.io/CVpersonal/">
-    <img src="img/GestionGview.png" alt="GestiónG Banner" width="100%">
-  </a>
+  <img src="https://raw.githubusercontent.com/JimQM03/CVpersonal/master/img/GestionGview.png" width="100%">
 </p>
 
 ### 🚀 About Me
