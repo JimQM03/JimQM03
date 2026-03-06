@@ -37,7 +37,7 @@ I am a **Software Engineering student (5th Semester)** at Universidad de Cundina
 **Full-Stack Financial Dashboard** with automated alerts.
 - **Highlights:** Integrated SMTP for email notifications and Neon (PostgreSQL) for secure cloud data storage.
 - **Stack:** Python, Flask, MySQL, Render.
-- [🔗 View Repository](https://github.com/JimQM03/Tu-Repo-Aqui)
+- [🔗 View Repository](https://github.com/JimQM03/StocklyVisual)
 
 ---
 
