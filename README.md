@@ -31,7 +31,7 @@ I am a **Software Engineering student (5th Semester)** at Universidad de Cundina
 **Advanced Inventory Management System** built with a focus on security.
 - **Highlights:** Implemented protection against SQL Injection, XSS attacks, and used Hashing for password encryption.
 - **Stack:** Turso (Edge SQLite), Vercel, JavaScript.
-- [🔗 View Repository](https://github.com/JimQM03/Tu-Repo-Aqui)
+- [🔗 View Repository](https://github.com/JimQM03/GestionGVisual)
 
 #### 2. 💰 GestiónG - Financial Control
 **Full-Stack Financial Dashboard** with automated alerts.
