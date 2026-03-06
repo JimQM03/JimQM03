@@ -52,6 +52,6 @@ I am a **Software Engineering student (5th Semester)** at Universidad de Cundina
 ### 📫 Connect with me:
 [**Check my Interactive CV**](https://jimqm03.github.io/CVpersonal/) 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TuUsuario)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bk2bz0mGLQXyUCzdfB8QU0Q%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jimq293@gmail.com)
 
