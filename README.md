@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JimQM03/CVpersonal/master/img/LoogoEmpresa.png" width="100%">
+  <img src="https://raw.githubusercontent.com/JimQM03/CVpersonal/master/img/LogoEmpresa.png" width="100%">
 </p>
 
 # Hi there, I'm Jim! 👋 
