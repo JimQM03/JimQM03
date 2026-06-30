@@ -2,19 +2,19 @@
   <img src="https://raw.githubusercontent.com/JimQM03/CVpersonal/master/img/LogoEmpresa.png" width="100%">
 </p>
 
-# Hi there, I'm Jim! 👋 
+# Hi there, I'm Jim! 
 
 
-### 🚀 About Me
+### About Me
 I am a **Software Engineering student (5th Semester)** at Universidad de Cundinamarca (UDEC), Colombia. My focus is on **Backend Development and Database Architecture**. I enjoy solving complex problems through logic, ensuring data security, and exploring the intersection between art and code.
 
-- 🔭 **Current Focus:** Advanced Database Management and Server-side Security.
-- ⚡ **Fun Fact:** I combine my technical side with independent art; check my [Instagram](https://www.instagram.com/cromatic.echo/) to see my creative work.
-- 💬 **Ask me about:** Python, SQL, and how to build secure login systems.
+-  **Current Focus:** Advanced Database Management and Server-side Security.
+-  **Fun Fact:** I combine my technical side with independent art; check my [Instagram](https://www.instagram.com/cromatic.echo/) to see my creative work.
+-  **Ask me about:** Python, SQL, and how to build secure login systems.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Category | Tools & Languages |
 | :--- | :--- |
@@ -25,15 +25,15 @@ I am a **Software Engineering student (5th Semester)** at Universidad de Cundina
 
 ---
 
-### 📂 Featured Projects
+###  Featured Projects
 
-#### 1. 🛡️ Inventory Web Service (FerreControl)
+#### 1.  Inventory Web Service (FerreControl)
 **Advanced Inventory Management System** built with a focus on security.
 - **Highlights:** Implemented protection against SQL Injection, XSS attacks, and used Hashing for password encryption.
 - **Stack:** Turso (Edge SQLite), Vercel, JavaScript.
 - [🔗 View Repository](https://github.com/JimQM03/GestionGVisual)
 
-#### 2. 💰 GestiónG - Financial Control
+#### 2.  GestiónG - Financial Control
 **Full-Stack Financial Dashboard** with automated alerts.
 - **Highlights:** Integrated SMTP for email notifications and Neon (PostgreSQL) for secure cloud data storage.
 - **Stack:** Python, Flask, MySQL, Render.
@@ -41,7 +41,7 @@ I am a **Software Engineering student (5th Semester)** at Universidad de Cundina
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JimQM03&show_icons=true&theme=vue" height="150" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JimQM03&layout=compact&theme=vue" height="150" />
@@ -49,7 +49,7 @@ I am a **Software Engineering student (5th Semester)** at Universidad de Cundina
 
 ---
 
-### 📫 Connect with me:
+###  Connect with me:
 [**Check my Interactive CV**](https://jimqm03.github.io/CVpersonal/) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO/)
