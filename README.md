@@ -31,14 +31,14 @@ I am a **Software Engineering student (5th Semester)** at Universidad de Cundina
 **Advanced Inventory Management System** built with a focus on security.
 - **Highlights:** Implemented protection against SQL Injection, XSS attacks, and used Hashing for password encryption.
 - **Stack:** Turso (Edge SQLite), Vercel, JavaScript.
-- [![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JimQM03/GestionGVisual)
+  [![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JimQM03/GestionGVisual)
 
 #### 2. GestiónG - Financial Control
 **Full-Stack Financial Dashboard** with automated alerts.
 - **Highlights:** Integrated SMTP for email notifications and secure cloud data storage.
 - **Stack:** Node.js, MySQL, Render.
-- [![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JimQM03/StocklyVisual)
-- 
+  [![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JimQM03/StocklyVisual)
+ 
 ---
 
 ###  GitHub Stats
